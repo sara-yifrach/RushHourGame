@@ -1,0 +1,36 @@
+﻿
+body {
+    background-image: url("pictures/RushHourBlack.jpg");
+}
+
+#users {
+    width: 320px;
+    height: 430px;
+    border: 5px;
+    border-style: solid;
+    border-color: white;
+    margin-top: 9%;
+    color: white;
+    font-size: 50px;
+    font-family: 'Bauhaus 93';
+    text-align: center;
+    margin-left: 42%;
+}
+/*
+#carMoving {
+    margin-bottom: 300px;
+    size: 200px;
+}*/
+
+#btnCheckUsers {
+    width: 330px;
+    height: 50px;
+    border: 5px;
+    border-style: solid;
+    border-color: rgb(255,255,255);
+    color: rgb(0,0,0);
+    font-size: 30px;
+    font-family: 'Bauhaus 93';
+    text-align: center;
+    margin-left: 42%;
+}

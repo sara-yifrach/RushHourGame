@@ -1,0 +1,108 @@
+{
+  "board": {
+    "arrayCar": [
+      {
+        "id": "x",
+        "boardTop": 200,
+        "boardLeft": 0,
+        "along": false,
+        "across": true,
+        "sumSquars": 2,
+        "color": "red"
+      },
+      {
+        "id": "a",
+        "boardTop": 0,
+        "boardLeft": 0,
+        "along": true,
+        "across": false,
+        "sumSquars": 2,
+        "color": "green"
+      },
+      {
+        "id": "b",
+        "boardTop": 100,
+        "boardLeft": 300,
+        "along": true,
+        "across": false,
+        "sumSquars": 2,
+        "color": "orange"
+      },
+      {
+        "id": "c",
+        "boardTop": 200,
+        "boardLeft": 400,
+        "along": true,
+        "across": false,
+        "sumSquars": 2,
+        "color": "lightBlue"
+      },
+      {
+        "id": "d",
+        "boardTop": 400,
+        "boardLeft": 200,
+        "along": true,
+        "across": false,
+        "sumSquars": 2,
+        "color": "pink"
+      },
+      {
+        "id": "e",
+        "boardTop": 400,
+        "boardLeft": 400,
+        "along": false,
+        "across": true,
+        "sumSquars": 2,
+        "color": "purple"
+      },
+      {
+        "id": "f",
+        "boardTop": 500,
+        "boardLeft": 0,
+        "along": false,
+        "across": true,
+        "sumSquars": 2,
+        "color": "darkRed"
+      },
+      {
+        "id": "g",
+        "boardTop": 500,
+        "boardLeft": 300,
+        "along": false,
+        "across": true,
+        "sumSquars": 2,
+        "color": "Blue"
+      },
+      {
+        "id": "o",
+        "boardTop": 0,
+        "boardLeft": 300,
+        "along": false,
+        "across": true,
+        "sumSquars": 3,
+        "color": "orange"
+      },
+      {
+        "id": "p",
+        "boardTop": 100,
+        "boardLeft": 500,
+        "along": true,
+        "across": false,
+        "sumSquars": 3,
+        "color": "lightBlue"
+      },
+      {
+        "id": "q",
+        "boardTop": 300,
+        "boardLeft": 0,
+        "along": false,
+        "across": true,
+        "sumSquars": 3,
+        "color": "pink"
+      }
+    ],
+    "sumSquarsOfBoard": 36,
+    "sizeOfSqr": "100px",
+    "exitPoint": 1250
+  }
+}

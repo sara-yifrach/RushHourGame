@@ -1,0 +1,60 @@
+body {
+    background-image: url("pictures/RushHourBlack.jpg");
+}
+#div{
+margin-top:20%;
+height:35%;
+width:100%;
+background-color:black;
+
+font-size:90px;
+}
+#h1 {
+    margin-left: 100px;
+    animation: example 10s infinite;
+}
+@keyframes example {
+    0% {
+        color: rgb(226,172,0);
+    }
+
+    10% {
+        color: white;
+    }
+
+    20% {
+        color: darkRed;
+    }
+
+    30% {
+        color: rgb(226,172,0);
+    }
+
+    40% {
+        color: white;
+    }
+
+    50% {
+        color: darkRed;
+    }
+
+    60% {
+        color: rgb(226,172,0);
+    }
+
+    70% {
+        color: white;
+    }
+
+    80% {
+        color: darkRed;
+    }
+
+    90% {
+        color: rgb(226,172,0);
+    }
+
+    100% {
+        color: white;
+    }
+}
